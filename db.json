@@ -1,0 +1,190 @@
+{
+    "menus": [
+      {
+        "id": 1,
+        "icon": "https://loremflickr.com/320/320/abstract",
+        "order": 1,
+        "display_on_home": true,
+        "title_id": "Laporan dan Aduan",
+        "title_en": "Reports and Complaints"
+      },
+      {
+        "id": 2,
+        "icon": "https://loremflickr.com/320/320/abstract",
+        "order": 2,
+        "display_on_home": true,
+        "title_id": "Daftar Kontak Darurat",
+        "title_en": "Emergency Contact List"
+      },
+      {
+        "id": 3,
+        "icon": "https://loremflickr.com/320/320/abstract",
+        "order": 3,
+        "display_on_home": true,
+        "title_id": "Top-up dan Tagihan",
+        "title_en": "Top-up and Billing"
+      },
+      {
+        "id": 4,
+        "icon": "https://loremflickr.com/320/320/abstract",
+        "order": 4,
+        "display_on_home": true,
+        "title_id": "Transportasi Publik",
+        "title_en": "Public Transportation"
+      },
+      {
+        "id": 5,
+        "icon": "https://loremflickr.com/320/320/abstract",
+        "order": 5,
+        "display_on_home": true,
+        "title_id": "Dokumen Administrasi",
+        "title_en": "Administrative Documents"
+      },
+      {
+        "id": 6,
+        "icon": "https://loremflickr.com/320/320/abstract",
+        "order": 6,
+        "display_on_home": true,
+        "title_id": "Info Cuaca dan Udara",
+        "title_en": "Weather and Air Information"
+      },
+      {
+        "id": 7,
+        "icon": "https://loremflickr.com/320/320/abstract",
+        "order": 7,
+        "display_on_home": true,
+        "title_id": "Layanan Kesehatan",
+        "title_en": "Healthcare Services"
+      },
+      {
+        "id": 8,
+        "icon": "https://loremflickr.com/320/320/abstract",
+        "order": 8,
+        "display_on_home": true,
+        "title_id": "Lihat Semua Fitur",
+        "title_en": "View All Features"
+      }
+    ],
+    "article_categories": [
+        {
+            "id": 1,
+            "title_id": "Monitor Nusantara",
+            "title_en": "Archipelago Monitor",
+            "subtitle_id": "Informasi Seputar perkembangan infrastruktur di Ibu Kota Nusantara",
+            "subtitle_en": "Information Regarding the Development of Infrastructure in Ibu Kota Nusantara",
+            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
+            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam."
+        },
+        {
+            "id": 2,
+            "title_id": "Wisata Alam",
+            "title_en": "Nature Tourism",
+            "subtitle_id": "Rekreasi dan Wisata Sekitar",
+            "subtitle_en": "Recreation and Tourism Around",
+            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
+            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam."
+        }
+    ],
+    "articles": [
+        {
+            "id": 1,
+            "category_id": 1,
+            "title_id": "Monitor Nusantara",
+            "title_en": "Archipelago Monitor",
+            "subtitle_id": "Informasi Seputar perkembangan infrastruktur di Ibu Kota Nusantara",
+            "subtitle_en": "Information Regarding the Development of Infrastructure in Ibu Kota Nusantara",
+            "highlight": true,
+            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
+            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
+            "permalink": "#",
+            "published": true,
+            "thumbnail": "https://loremflickr.com/640/480/nature"
+        },
+        {
+            "id": 2,
+            "category_id": 2,
+            "title_id": "Berkunjung ke Pantai Tanah Merah",
+            "title_en": "Visiting Pantai Tanah Merah",
+            "subtitle_id": "Kab Kutai Kartanegara",
+            "subtitle_en": "Kab Kutai Kartanegara",
+            "highlight": true,
+            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
+            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
+            "permalink": "#",
+            "published": true,
+            "thumbnail": "https://loremflickr.com/640/480/nature"
+        },
+        {
+            "id": 3,
+            "category_id": 2,
+            "title_id": "Wisata Alam Bukit Bangkirai",
+            "title_en": "Bukit Bangkirai Nature Tourism",
+            "subtitle_id": "Kab Kutai Kartanegara",
+            "subtitle_en": "Kab Kutai Kartanegara",
+            "highlight": true,
+            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
+            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
+            "permalink": "#",
+            "published": true,
+            "thumbnail": "https://loremflickr.com/640/480/nature"
+        },
+        {
+            "id": 4,
+            "category_id": 2,
+            "title_id": "Desa Wisata Mangrove Mentawir",
+            "title_en": "Tourism Village of Mangrove Mentawir",
+            "subtitle_id": "Kota Balikpapan",
+            "subtitle_en": "Kota Balikpapan",
+            "highlight": true,
+            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
+            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
+            "permalink": "#",
+            "published": true,
+            "thumbnail": "https://loremflickr.com/640/480/nature"
+        },
+        {
+            "id": 5,
+            "category_id": 2,
+            "title_id": "Desa Budaya Pampang",
+            "title_en": "Cultural Village of Pampang",
+            "subtitle_id": "Kota Balikpapan",
+            "subtitle_en": "Kota Balikpapan",
+            "highlight": true,
+            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
+            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
+            "permalink": "#",
+            "published": true,
+            "thumbnail": "https://loremflickr.com/640/480/nature"
+        }
+    ],
+    "social_medias": [
+        {
+            "id": 1,
+            "icon": "https://loremflickr.com/320/320/icon",
+            "title": "Instagram",
+            "active": true,
+            "permalink": "https://instagram.com"
+        },
+        {
+            "id": 2,
+            "icon": "https://loremflickr.com/320/320/icon",
+            "title": "Facebook",
+            "active": true,
+            "permalink": "https://facebook.com"
+        },
+        {
+            "id": 3,
+            "icon": "https://loremflickr.com/320/320/icon",
+            "title": "(X) Twitter",
+            "active": true,
+            "permalink": "https://x.com"
+        },
+        {
+            "id": 4,
+            "icon": "https://loremflickr.com/320/320/icon",
+            "title": "Youtube",
+            "active": true,
+            "permalink": "https://youtube.com"
+        }
+    ]
+  }
