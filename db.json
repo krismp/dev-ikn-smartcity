@@ -55,15 +55,6 @@
       "url": "https://www.ikn.go.id"
     },
     {
-      "id": 7,
-      "icon": "https://loremflickr.com/320/320/abstract",
-      "order": 7,
-      "display_on_home": true,
-      "title_id": "Layanan Kesehatan",
-      "title_en": "Healthcare Services",
-      "url": "https://www.ikn.go.id"
-    },
-    {
       "id": 8,
       "icon": "https://loremflickr.com/320/320/abstract",
       "order": 8,
@@ -73,24 +64,9 @@
       "url": "https://www.ikn.go.id"
     }
   ],
-  "article_categories": [
-    {
-      "id": 1,
-      "title_id": "Dashboard Title, Translation, Thumbnail & URL Webview"
-    },
-    {
-      "id": 2,
-      "title_id": "List OF Rekreasi & Wisata"
-    },
-    {
-      "id": 3,
-      "title_id": "List of Artikel & Siaran"
-    }
-  ],
   "articles": [
     {
       "id": 1,
-      "category_id": 1,
       "title_id": "Monitor Nusantara",
       "title_en": "Archipelago Monitor",
       "subtitle_id": "Informasi Seputar perkembangan infrastruktur di Ibu Kota Nusantara",
@@ -104,7 +80,6 @@
     },
     {
       "id": 2,
-      "category_id": 1,
       "title_id": "Rekreasi & Wisata Sekitar",
       "title_en": "Recreation & Tourism Nearby",
       "subtitle_id": "",
@@ -118,7 +93,6 @@
     },
     {
       "id": 3,
-      "category_id": 1,
       "title_id": "Artikel & Siaran",
       "title_en": "Articles & Releases",
       "subtitle_id": "",
@@ -132,7 +106,6 @@
     },
     {
       "id": 4,
-      "category_id": 1,
       "title_id": "Kolaborasi dan kerjasama",
       "title_en": "Collaboration and Cooperation",
       "subtitle_id": "Ingin berkolaborasi ?",
@@ -146,7 +119,6 @@
     },
     {
       "id": 5,
-      "category_id": 1,
       "title_id": "Nusantara di media sosial",
       "title_en": "Nusantara on social media",
       "subtitle_id": "",
@@ -160,7 +132,6 @@
     },
     {
       "id": 6,
-      "category_id": 1,
       "title_id": "Kirim saran dan kritik",
       "title_en": "Send suggestions and critiques",
       "subtitle_id": "",
@@ -174,7 +145,6 @@
     },
     {
       "id": 7,
-      "category_id": 2,
       "title_id": "Berkunjung Ke Pantai Tanah Merah",
       "title_en": "Visit Tanah Merah Beach",
       "subtitle_id": "Wisata Alam",
@@ -188,7 +158,6 @@
     },
     {
       "id": 8,
-      "category_id": 2,
       "title_id": "Wisata Alam Bukit Bangkirai",
       "title_en": "Natural Tourism at Bukit Bangkirai",
       "subtitle_id": "Wisata Alam",
@@ -202,7 +171,6 @@
     },
     {
       "id": 9,
-      "category_id": 2,
       "title_id": "Desa Wisata Mangrove Mentawir",
       "title_en": "Mentawir Mangrove Tourism Village",
       "subtitle_id": "Wisata Alam",
@@ -216,7 +184,6 @@
     },
     {
       "id": 10,
-      "category_id": 2,
       "title_id": "Desa Budaya Pampang",
       "title_en": "Pampang Cultural Village",
       "subtitle_id": "Budaya",
@@ -230,7 +197,6 @@
     },
     {
       "id": 11,
-      "category_id": 2,
       "title_id": "Goa Tapak Raja",
       "title_en": "Tapak Raja Cave",
       "subtitle_id": "Wisata Alam",
@@ -244,7 +210,6 @@
     },
     {
       "id": 12,
-      "category_id": 3,
       "title_id": "Otorita IKN Jalin Kerja Sama dengan Bank Mandiri untuk Hadirkan Solusi Keuangan",
       "title_en": "Otorita IKN Collaborates with Bank Mandiri to Introduce Financial Solutions",
       "subtitle_id": "21 Agustus 2023",
@@ -258,7 +223,6 @@
     },
     {
       "id": 13,
-      "category_id": 3,
       "title_id": "Respons Masukan RUU Perubahan atas UU 3/2022 Tentang IKN",
       "title_en": "Response to Feedback on the Amendment Bill to Law 3/2022 Regarding IKN",
       "subtitle_id": "21 Agustus 2023",
@@ -272,7 +236,6 @@
     },
     {
       "id": 14,
-      "category_id": 3,
       "title_id": "Sekilas Ibu Kota Nusantara: Paket Investasi dan Pilihan Skema Pendanaan",
       "title_en": "Overview of the Nusantara Capital: Investment Packages and Financing Scheme Options",
       "subtitle_id": "07 Agustus 2023",
@@ -286,7 +249,6 @@
     },
     {
       "id": 15,
-      "category_id": 3,
       "title_id": "OIKN dan Thales Menandatangani MOU Kerja Sama untuk Pengembangan Konsep Kota Cerdas di Nusantara",
       "title_en": "OIKN and Thales Sign MOU for Collaboration on the Development of Smart City Concepts in the Nusantara",
       "subtitle_id": "25 Juli 2023",
@@ -300,7 +262,6 @@
     },
     {
       "id": 16,
-      "category_id": 3,
       "title_id": "Proses Perolehan Tanah di IKN Berjalan Didukung Lintas-Kementerian",
       "title_en": "Land Acquisition Process in IKN Progressing with Cross-Ministry Support",
       "subtitle_id": "05 Mei 2023",
