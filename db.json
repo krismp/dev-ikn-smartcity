@@ -1,198 +1,361 @@
 {
-    "menus": [
-      {
-        "id": 1,
-        "icon": "https://loremflickr.com/320/320/abstract",
-        "order": 1,
-        "display_on_home": true,
-        "title_id": "Laporan dan Aduan",
-        "title_en": "Reports and Complaints",
-        "url": "https://www.ikn.go.id"
-      },
-      {
-        "id": 2,
-        "icon": "https://loremflickr.com/320/320/abstract",
-        "order": 2,
-        "display_on_home": true,
-        "title_id": "Daftar Kontak Darurat",
-        "title_en": "Emergency Contact List",
-        "url": "https://www.ikn.go.id"
-      },
-      {
-        "id": 3,
-        "icon": "https://loremflickr.com/320/320/abstract",
-        "order": 3,
-        "display_on_home": true,
-        "title_id": "Top-up dan Tagihan",
-        "title_en": "Top-up and Billing",
-        "url": "https://www.ikn.go.id"
-      },
-      {
-        "id": 4,
-        "icon": "https://loremflickr.com/320/320/abstract",
-        "order": 4,
-        "display_on_home": true,
-        "title_id": "Transportasi Publik",
-        "title_en": "Public Transportation",
-        "url": "https://www.ikn.go.id"
-      },
-      {
-        "id": 5,
-        "icon": "https://loremflickr.com/320/320/abstract",
-        "order": 5,
-        "display_on_home": true,
-        "title_id": "Dokumen Administrasi",
-        "title_en": "Administrative Documents",
-        "url": "https://www.ikn.go.id"
-      },
-      {
-        "id": 6,
-        "icon": "https://loremflickr.com/320/320/abstract",
-        "order": 6,
-        "display_on_home": true,
-        "title_id": "Info Cuaca dan Udara",
-        "title_en": "Weather and Air Information",
-        "url": "https://www.ikn.go.id"
-      },
-      {
-        "id": 7,
-        "icon": "https://loremflickr.com/320/320/abstract",
-        "order": 7,
-        "display_on_home": true,
-        "title_id": "Layanan Kesehatan",
-        "title_en": "Healthcare Services",
-        "url": "https://www.ikn.go.id"
-      },
-      {
-        "id": 8,
-        "icon": "https://loremflickr.com/320/320/abstract",
-        "order": 8,
-        "display_on_home": true,
-        "title_id": "Lihat Semua Fitur",
-        "title_en": "View All Features",
-        "url": "https://www.ikn.go.id"
-      }
-    ],
-    "article_categories": [
-        {
-            "id": 1,
-            "title_id": "Monitor Nusantara",
-            "title_en": "Archipelago Monitor",
-            "subtitle_id": "Informasi Seputar perkembangan infrastruktur di Ibu Kota Nusantara",
-            "subtitle_en": "Information Regarding the Development of Infrastructure in Ibu Kota Nusantara",
-            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
-            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam."
-        },
-        {
-            "id": 2,
-            "title_id": "Wisata Alam",
-            "title_en": "Nature Tourism",
-            "subtitle_id": "Rekreasi dan Wisata Sekitar",
-            "subtitle_en": "Recreation and Tourism Around",
-            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
-            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam."
-        }
-    ],
-    "articles": [
-        {
-            "id": 1,
-            "category_id": 1,
-            "title_id": "Monitor Nusantara",
-            "title_en": "Archipelago Monitor",
-            "subtitle_id": "Informasi Seputar perkembangan infrastruktur di Ibu Kota Nusantara",
-            "subtitle_en": "Information Regarding the Development of Infrastructure in Ibu Kota Nusantara",
-            "highlight": true,
-            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
-            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
-            "permalink": "#",
-            "published": true,
-            "thumbnail": "https://loremflickr.com/640/480/nature"
-        },
-        {
-            "id": 2,
-            "category_id": 2,
-            "title_id": "Berkunjung ke Pantai Tanah Merah",
-            "title_en": "Visiting Pantai Tanah Merah",
-            "subtitle_id": "Kab Kutai Kartanegara",
-            "subtitle_en": "Kab Kutai Kartanegara",
-            "highlight": true,
-            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
-            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
-            "permalink": "#",
-            "published": true,
-            "thumbnail": "https://loremflickr.com/640/480/nature"
-        },
-        {
-            "id": 3,
-            "category_id": 2,
-            "title_id": "Wisata Alam Bukit Bangkirai",
-            "title_en": "Bukit Bangkirai Nature Tourism",
-            "subtitle_id": "Kab Kutai Kartanegara",
-            "subtitle_en": "Kab Kutai Kartanegara",
-            "highlight": true,
-            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
-            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
-            "permalink": "#",
-            "published": true,
-            "thumbnail": "https://loremflickr.com/640/480/nature"
-        },
-        {
-            "id": 4,
-            "category_id": 2,
-            "title_id": "Desa Wisata Mangrove Mentawir",
-            "title_en": "Tourism Village of Mangrove Mentawir",
-            "subtitle_id": "Kota Balikpapan",
-            "subtitle_en": "Kota Balikpapan",
-            "highlight": true,
-            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
-            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
-            "permalink": "#",
-            "published": true,
-            "thumbnail": "https://loremflickr.com/640/480/nature"
-        },
-        {
-            "id": 5,
-            "category_id": 2,
-            "title_id": "Desa Budaya Pampang",
-            "title_en": "Cultural Village of Pampang",
-            "subtitle_id": "Kota Balikpapan",
-            "subtitle_en": "Kota Balikpapan",
-            "highlight": true,
-            "desc_id": "Officia excepteur est aliquip incididunt amet. In elit tempor magna laborum velit culpa. Elit dolore eiusmod ut occaecat ea. Elit mollit ex labore qui ex occaecat qui qui aute sit.",
-            "desc_en": "Lorem non enim nulla sunt exercitation fugiat consequat pariatur sunt. Labore adipisicing ut proident velit sunt irure commodo fugiat est duis. Do sunt et labore qui adipisicing ullamco officia. Labore fugiat irure fugiat incididunt veniam elit ea magna amet veniam.",
-            "permalink": "#",
-            "published": true,
-            "thumbnail": "https://loremflickr.com/640/480/nature"
-        }
-    ],
-    "social_medias": [
-        {
-            "id": 1,
-            "icon": "https://loremflickr.com/320/320/icon",
-            "title": "Instagram",
-            "active": true,
-            "permalink": "https://instagram.com"
-        },
-        {
-            "id": 2,
-            "icon": "https://loremflickr.com/320/320/icon",
-            "title": "Facebook",
-            "active": true,
-            "permalink": "https://facebook.com"
-        },
-        {
-            "id": 3,
-            "icon": "https://loremflickr.com/320/320/icon",
-            "title": "(X) Twitter",
-            "active": true,
-            "permalink": "https://x.com"
-        },
-        {
-            "id": 4,
-            "icon": "https://loremflickr.com/320/320/icon",
-            "title": "Youtube",
-            "active": true,
-            "permalink": "https://youtube.com"
-        }
-    ]
-  }
+  "menus": [
+    {
+      "id": 1,
+      "icon": "https://loremflickr.com/320/320/abstract",
+      "order": 1,
+      "display_on_home": true,
+      "title_id": "Laporan dan Aduan",
+      "title_en": "Reports and Complaints",
+      "url": "https://www.ikn.go.id"
+    },
+    {
+      "id": 2,
+      "icon": "https://loremflickr.com/320/320/abstract",
+      "order": 2,
+      "display_on_home": true,
+      "title_id": "Daftar Kontak Darurat",
+      "title_en": "Emergency Contact List",
+      "url": "https://www.ikn.go.id"
+    },
+    {
+      "id": 3,
+      "icon": "https://loremflickr.com/320/320/abstract",
+      "order": 3,
+      "display_on_home": true,
+      "title_id": "Top-up dan Tagihan",
+      "title_en": "Top-up and Billing",
+      "url": "https://www.ikn.go.id"
+    },
+    {
+      "id": 4,
+      "icon": "https://loremflickr.com/320/320/abstract",
+      "order": 4,
+      "display_on_home": true,
+      "title_id": "Transportasi Publik",
+      "title_en": "Public Transportation",
+      "url": "https://www.ikn.go.id"
+    },
+    {
+      "id": 5,
+      "icon": "https://loremflickr.com/320/320/abstract",
+      "order": 5,
+      "display_on_home": true,
+      "title_id": "Dokumen Administrasi",
+      "title_en": "Administrative Documents",
+      "url": "https://www.ikn.go.id"
+    },
+    {
+      "id": 6,
+      "icon": "https://loremflickr.com/320/320/abstract",
+      "order": 6,
+      "display_on_home": true,
+      "title_id": "Info Cuaca dan Udara",
+      "title_en": "Weather and Air Information",
+      "url": "https://www.ikn.go.id"
+    },
+    {
+      "id": 7,
+      "icon": "https://loremflickr.com/320/320/abstract",
+      "order": 7,
+      "display_on_home": true,
+      "title_id": "Layanan Kesehatan",
+      "title_en": "Healthcare Services",
+      "url": "https://www.ikn.go.id"
+    },
+    {
+      "id": 8,
+      "icon": "https://loremflickr.com/320/320/abstract",
+      "order": 8,
+      "display_on_home": true,
+      "title_id": "Lihat Semua Fitur",
+      "title_en": "View All Features",
+      "url": "https://www.ikn.go.id"
+    }
+  ],
+  "article_categories": [
+    {
+      "id": 1,
+      "title_id": "Dashboard Title, Translation, Thumbnail & URL Webview",
+      "title_en": "",
+      "subtitle_id": "",
+      "subtitle_en": "",
+      "desc_id": "",
+      "desc_en": ""
+    },
+    {
+      "id": 2,
+      "title_id": "List OF Rekreasi & Wisata",
+      "title_en": "",
+      "subtitle_id": "",
+      "subtitle_en": "",
+      "desc_id": "",
+      "desc_en": ""
+    },
+    {
+      "id": 3,
+      "title_id": "List of Artikel & Siaran",
+      "title_en": "",
+      "subtitle_id": "",
+      "subtitle_en": "",
+      "desc_id": "",
+      "desc_en": ""
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "title_id": "Monitor Nusantara",
+      "title_en": "Archipelago Monitor",
+      "subtitle_id": "Informasi Seputar perkembangan infrastruktur di Ibu Kota Nusantara",
+      "subtitle_en": "Information Regarding the Development of Infrastructure in Ibu Kota Nusantara",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "https://montara.ikn.go.id",
+      "published": true,
+      "thumbnail": "[ip public url]/dashboard/montara-img.png"
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "title_id": "Rekreasi & Wisata Sekitar",
+      "title_en": "Recreation & Tourism Nearby",
+      "subtitle_id": "",
+      "subtitle_en": "",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "",
+      "published": true,
+      "thumbnail": ""
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "title_id": "Artikel & Siaran",
+      "title_en": "Articles & Releases",
+      "subtitle_id": "",
+      "subtitle_en": "",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "",
+      "published": true,
+      "thumbnail": ""
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "title_id": "Kolaborasi dan kerjasama",
+      "title_en": "Collaboration and Cooperation",
+      "subtitle_id": "Ingin berkolaborasi ?",
+      "subtitle_en": "Want to collaborate ?",
+      "highlight": true,
+      "desc_id": "Hubungi kami",
+      "desc_en": "Contact Us",
+      "permalink": "mailto:sdfitriyanti@gmail.com",
+      "published": true,
+      "thumbnail": "[ip public url]/dashboard/Kolaborasi.png"
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "title_id": "Nusantara di media sosial",
+      "title_en": "Nusantara on social media",
+      "subtitle_id": "",
+      "subtitle_en": "",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "",
+      "published": true,
+      "thumbnail": ""
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "title_id": "Kirim saran dan kritik",
+      "title_en": "Send suggestions and critiques",
+      "subtitle_id": "",
+      "subtitle_en": "",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "https://www.typeform.com",
+      "published": true,
+      "thumbnail": ""
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "title_id": "Berkunjung Ke Pantai Tanah Merah",
+      "title_en": "Visit Tanah Merah Beach",
+      "subtitle_id": "Wisata Alam",
+      "subtitle_en": "Natural Tourism",
+      "highlight": true,
+      "desc_id": "Kab. Kutai Kertanegara",
+      "desc_en": "Kab. Kutai Kertanegara",
+      "permalink": "https://maps.app.goo.gl/oFwieH6ca1skizQA9",
+      "published": true,
+      "thumbnail": "[ip public url]/rekreasi/pantai-tanah-merah.png"
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "title_id": "Wisata Alam Bukit Bangkirai",
+      "title_en": "Natural Tourism at Bukit Bangkirai",
+      "subtitle_id": "Wisata Alam",
+      "subtitle_en": "Natural Tourism",
+      "highlight": true,
+      "desc_id": "Kab. Kutai Kertanegara",
+      "desc_en": "Kab. Kutai Kertanegara",
+      "permalink": "https://maps.app.goo.gl/UtyXNiwPSNcU4EMw7",
+      "published": true,
+      "thumbnail": "[ip public url]/rekreasi/bukit-bangkirai.png"
+    },
+    {
+      "id": 9,
+      "category_id": 2,
+      "title_id": "Desa Wisata Mangrove Mentawir",
+      "title_en": "Mentawir Mangrove Tourism Village",
+      "subtitle_id": "Wisata Alam",
+      "subtitle_en": "Natural Tourism",
+      "highlight": true,
+      "desc_id": "Kota Balikpapan",
+      "desc_en": "Kota Balikpapan",
+      "permalink": "https://maps.app.goo.gl/qRGRndWgYxW4A1uw6",
+      "published": true,
+      "thumbnail": "[ip public url]/rekreasi/mangrove-mentawir.png"
+    },
+    {
+      "id": 10,
+      "category_id": 2,
+      "title_id": "Desa Budaya Pampang",
+      "title_en": "Pampang Cultural Village",
+      "subtitle_id": "Budaya",
+      "subtitle_en": "Cultural",
+      "highlight": true,
+      "desc_id": "Kota Balikpapan",
+      "desc_en": "Kota Balikpapan",
+      "permalink": "https://maps.app.goo.gl/WZMUEbtzTjaLrEpx9",
+      "published": true,
+      "thumbnail": "[ip public url]/rekreasi/budaya-pampang.png"
+    },
+    {
+      "id": 11,
+      "category_id": 2,
+      "title_id": "Goa Tapak Raja",
+      "title_en": "Tapak Raja Cave",
+      "subtitle_id": "Wisata Alam",
+      "subtitle_en": "Natural Tourism",
+      "highlight": true,
+      "desc_id": "Kabupaten Penajam Paser Utara",
+      "desc_en": "Kabupaten Penajam Paser Utara",
+      "permalink": "https://maps.app.goo.gl/6Z5jBNsk7EW2U1TG8",
+      "published": true,
+      "thumbnail": "[ip public url]/rekreasi/goa-tapak-raja.png"
+    },
+    {
+      "id": 12,
+      "category_id": 3,
+      "title_id": "Otorita IKN Jalin Kerja Sama dengan Bank Mandiri untuk Hadirkan Solusi Keuangan",
+      "title_en": "Otorita IKN Collaborates with Bank Mandiri to Introduce Financial Solutions",
+      "subtitle_id": "21 Agustus 2023",
+      "subtitle_en": "21 Agustus 2023",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "https://www.ikn.go.id/otorita-ikn-jalin-kerja-sama-dengan-bank-mandiri-untuk-hadirkan-solusi-keuangan",
+      "published": true,
+      "thumbnail": "[ip public url]/artikel/otorita-ikn.jpeg"
+    },
+    {
+      "id": 13,
+      "category_id": 3,
+      "title_id": "Respons Masukan RUU Perubahan atas UU 3/2022 Tentang IKN",
+      "title_en": "Response to Feedback on the Amendment Bill to Law 3/2022 Regarding IKN",
+      "subtitle_id": "21 Agustus 2023",
+      "subtitle_en": "21 Agustus 2023",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "https://www.ikn.go.id/lain-lain",
+      "published": true,
+      "thumbnail": "[ip public url]/artikel/respons-masukan.jpeg"
+    },
+    {
+      "id": 14,
+      "category_id": 3,
+      "title_id": "Sekilas Ibu Kota Nusantara: Paket Investasi dan Pilihan Skema Pendanaan",
+      "title_en": "Overview of the Nusantara Capital: Investment Packages and Financing Scheme Options",
+      "subtitle_id": "07 Agustus 2023",
+      "subtitle_en": "07 Agustus 2023",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "https://www.ikn.go.id/investasi-dan-pilihan-skema-pendanaan-ikn",
+      "published": true,
+      "thumbnail": "[ip public url]/artikel/sekilas-ikn.jpeg"
+    },
+    {
+      "id": 15,
+      "category_id": 3,
+      "title_id": "OIKN dan Thales Menandatangani MOU Kerja Sama untuk Pengembangan Konsep Kota Cerdas di Nusantara",
+      "title_en": "OIKN and Thales Sign MOU for Collaboration on the Development of Smart City Concepts in the Nusantara",
+      "subtitle_id": "25 Juli 2023",
+      "subtitle_en": "25 Juli 2023",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "https://www.ikn.go.id/oikn-dan-thales-menandatangani-mou-kerja-sama-untuk-pengembangan-konsep-kota-cerdas-di-nusantara",
+      "published": true,
+      "thumbnail": "[ip public url]/artikel/oikn-thales.jpg"
+    },
+    {
+      "id": 16,
+      "category_id": 3,
+      "title_id": "Proses Perolehan Tanah di IKN Berjalan Didukung Lintas-Kementerian",
+      "title_en": "Land Acquisition Process in IKN Progressing with Cross-Ministry Support",
+      "subtitle_id": "05 Mei 2023",
+      "subtitle_en": "05 Mei 2023",
+      "highlight": true,
+      "desc_id": "",
+      "desc_en": "",
+      "permalink": "https://www.ikn.go.id/proses-perolehan-tanah-di-ikn-berjalan-didukung-lintas-kementerian",
+      "published": true,
+      "thumbnail": "[ip public url]/artikel/perolehan-tanah.jpeg"
+    }
+  ],
+  "social_medias": [
+    {
+      "id": 1,
+      "icon": "https://loremflickr.com/320/320/icon",
+      "title": "Instagram",
+      "active": true,
+      "permalink": "https://instagram.com"
+    },
+    {
+      "id": 2,
+      "icon": "https://loremflickr.com/320/320/icon",
+      "title": "Facebook",
+      "active": true,
+      "permalink": "https://facebook.com"
+    },
+    {
+      "id": 3,
+      "icon": "https://loremflickr.com/320/320/icon",
+      "title": "(X) Twitter",
+      "active": true,
+      "permalink": "https://x.com"
+    },
+    {
+      "id": 4,
+      "icon": "https://loremflickr.com/320/320/icon",
+      "title": "Youtube",
+      "active": true,
+      "permalink": "https://youtube.com"
+    }
+  ]
+}
