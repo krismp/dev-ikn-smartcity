@@ -76,30 +76,15 @@
   "article_categories": [
     {
       "id": 1,
-      "title_id": "Dashboard Title, Translation, Thumbnail & URL Webview",
-      "title_en": "",
-      "subtitle_id": "",
-      "subtitle_en": "",
-      "desc_id": "",
-      "desc_en": ""
+      "title_id": "Dashboard Title, Translation, Thumbnail & URL Webview"
     },
     {
       "id": 2,
-      "title_id": "List OF Rekreasi & Wisata",
-      "title_en": "",
-      "subtitle_id": "",
-      "subtitle_en": "",
-      "desc_id": "",
-      "desc_en": ""
+      "title_id": "List OF Rekreasi & Wisata"
     },
     {
       "id": 3,
-      "title_id": "List of Artikel & Siaran",
-      "title_en": "",
-      "subtitle_id": "",
-      "subtitle_en": "",
-      "desc_id": "",
-      "desc_en": ""
+      "title_id": "List of Artikel & Siaran"
     }
   ],
   "articles": [
